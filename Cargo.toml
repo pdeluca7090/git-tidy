@@ -1,0 +1,5 @@
+[package]
+name = "git-tidy"
+version = "0.1.0"
+edition = "2021"
+description = "Tidy up stale git branches."
